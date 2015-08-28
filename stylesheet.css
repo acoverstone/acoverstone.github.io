@@ -1,0 +1,120 @@
+@charset "UTF-8";
+
+/* Global Content Formatting and Styles */
+
+body {
+	background-color: #1B3659;
+}
+
+#picture div {
+	position: relative;
+    z-index: 0;
+}
+#picture div.previous {
+    z-index: 1;
+}
+#picture div.current {
+    z-index: 2;
+}
+
+#musicButton {
+	font-family: Verdana;
+	font-weight: bold;
+	margin-top: 12px;
+	margin-left: 15px;
+	background-color: #BDC3C5;
+}
+
+.icon {
+	width: 230px;  height: 230px;
+
+	/* Applies rounded corners to image  */
+	border:1px solid #;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;  
+
+	 /* Positions the image */
+	 position: absolute;
+	 top: 30px; left: 40px;
+	 padding: 20px;
+}
+
+.description {
+	font-family: Verdana;
+	color: white;
+	padding-left: 15px;
+	padding-top: 4px;
+
+}
+
+#UF {
+	font-size: 180%;
+	font-weight: bold;
+
+}
+
+#name {
+	font-family: Futura;
+	font-size: 475%;
+	font-weight: bold;
+	position: relative;
+	top: 14px;
+	padding: 15px;
+}
+
+#empty {
+	height: 40px;
+}
+
+#accordian {
+	padding: 20px;
+}
+
+.panel-default > .panel-heading {
+	background-color: #748397;
+	color: white;
+}
+
+a.hovered:hover {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+
+.panel-default > .panel-collapse {
+	background-color: #BDC3C5;
+	color: black;
+}
+
+.snippet {
+	padding-right: 25px;
+}
+
+.snippet p {
+	text-align: center;
+}
+
+
+.footer p {
+	padding-left: 30px;
+	font-size: 10px;
+	color: #748397;
+}
+
+.screenshot {
+	width: 350px;  height: 500px;
+
+	/* Applies rounded corners to image  */
+	border:1px solid #;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;  
+
+	 /* Positions the image */
+	 position: absolute;
+	 top: 30px;
+	 padding: 20px;
+}
+
