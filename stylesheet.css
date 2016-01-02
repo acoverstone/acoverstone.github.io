@@ -3,7 +3,23 @@
 /* Global Content Formatting and Styles */
 
 body {
-	background-color: #1B3659;
+	background: #003973; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #003973 , #9FA17E); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #003973 , #9FA17E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */                 
+}
+
+a.hovered:hover {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+#hh {
+	color: #4A4D4F;
 }
 
 #picture div {
@@ -76,12 +92,6 @@ body {
 	color: white;
 }
 
-a.hovered:hover {
-	text-decoration: none;
-	font-weight: bold;
-	font-size: 120%;
-}
-
 
 .panel-default > .panel-collapse {
 	background-color: #BDC3C5;
@@ -100,7 +110,7 @@ a.hovered:hover {
 .footer p {
 	padding-left: 30px;
 	font-size: 10px;
-	color: #748397;
+	color: #ffffff;
 }
 
 .screenshot {
