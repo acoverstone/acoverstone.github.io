@@ -1,9 +1,4 @@
 $(function(){
-	var music = document.getElementById("aud");
-	$("#musicButton").click(function(){
-		music.play();
-	});
-
 	setInterval("rotateImages()", 4000);
 });
 
