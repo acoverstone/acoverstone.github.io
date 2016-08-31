@@ -872,7 +872,7 @@ footer span.glyphicon.glyphicon-chevron-up {
     height: 360px;
 }
 	.banner-info {
-    margin: 46px 0 0 0;
+    margin: 86px 0 0 0;
 }
 	span.line1 , span.line2 {
 	width:300px;
@@ -884,7 +884,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 
 @media (max-width: 667px) {
 	.banner-info {
-    margin: 30px 0 0 0;
+    margin: 70px 0 0 0;
 }
 	.banner-info h3 {
 	font-size:35px;
@@ -902,7 +902,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 
 @media (max-width: 640px) {
 	.banner-info {
-    margin: 45px 0 0 0;
+    margin: 85px 0 0 0;
 }
 	.banner-info h3 {
 	padding:60px 0 10px;		
@@ -929,7 +929,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 	top:-17px;
 }
 	.banner-info {
-    margin: 60px 0 0 0;
+    margin: 100px 0 0 0;
 }
 }
 
@@ -941,7 +941,7 @@ footer span.glyphicon.glyphicon-chevron-up {
     height: 265px;
 }
 	.banner-info {
-    margin: 20px 0 0 0;
+    margin: 60px 0 0 0;
 }
 	.content-img {
     height: 332px;
@@ -953,10 +953,10 @@ footer span.glyphicon.glyphicon-chevron-up {
 
 @media (max-width: 480px){
 	.banner-info h3 {
-	font-size:25px;
+	font-size:65px;
 }	
 	.banner-info {
-    margin: 20px 0 0 0;
+    margin: 60px 0 0 0;
 }
 	.content-img {
     height: 278px;
@@ -1006,7 +1006,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 
 @media (max-width: 414px){
 	.banner-info {
-    margin: 20px 0 0 0;
+    margin: 60px 0 0 0;
 }
 	.mygallery img.img-responsive {
     height: 185px;
@@ -1030,7 +1030,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 
 @media (max-width: 384px) {
 	.banner-info {
-    margin: 20px 0 0 0;
+    margin: 60px 0 0 0;
 }
 	.about-me h3.text-center {
 		font-size:23px;
@@ -1096,7 +1096,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 
 @media (max-width: 320px) {
 	.banner-info {
-    margin: 20px 0 0 0;
+    margin: 60px 0 0 0;
 }
 	.contact-info p {
 	padding-bottom:5px;
